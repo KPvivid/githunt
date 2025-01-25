@@ -1,7 +1,6 @@
 # GitHunt 🔍  
 *A Git File Version Hunter*  
 
----
 
 ## Features  
 - 🕵️ Find file versions across **all branches/tags**  
@@ -10,7 +9,6 @@
 - 🔄 Tracks file renames/moves through history  
 - 🔒 MD5 hash verification for precise matching  
 
----
 
 ## Installation  
 ```bash
@@ -31,7 +29,6 @@ curl -L https://raw.githubusercontent.com/KPvivid/githunt/main/githunt.sh >> ~/.
 source ~/.config/fish/config.fish
 ```
 
----
 
 ## Usage  
 ```bash
@@ -43,7 +40,6 @@ githunt src/app/security.py a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p
 ```
 
 
----
 
 ## Why GitHunt?  
 Perfect for when you need to:  
@@ -53,5 +49,3 @@ Perfect for when you need to:
 - Find hidden versions like a Git detective 🕵️♂️  
 
 *Born from the need to analyze CMS version during security audits, inspired by Ippsec's methodology*
-
----
