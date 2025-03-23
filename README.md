@@ -1,7 +1,7 @@
 # GitHunt 🔍  
 *A Git File Version Hunter*  
 
-
+Full write up on the tool on [Medium](https://medium.com/@hackerperspective/githunt-a-tool-for-finding-web-application-versions-using-md5-and-github-943cc9143276) 
 ## Features  
 - 🕵️ Find file versions across **all branches/tags**  
 - 📂 Works for files in any directory structure  
